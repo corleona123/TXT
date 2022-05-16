@@ -1,0 +1,6 @@
+  name: Olga,
+  middle_name: Yurievna,
+  surname: Abrasimova,
+  age: 39,
+  pets_count: 1,
+  salary: 2000
