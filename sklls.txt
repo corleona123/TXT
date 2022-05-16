@@ -1,0 +1,4 @@
+  skill1: Google searching,
+  skill2: Git bash,
+  skill3: Github,
+  skill4: Javascript
