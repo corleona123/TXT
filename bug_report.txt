@@ -1,1 +1,10 @@
-
+    summary : Checkbox on registration form isn't available
+    ID : REG-1208
+    project: SiteToTest
+    status : open
+    priority : high
+    severity : major
+    enviroment: staging
+    actual result : agreement checkbox on registration form isn't available. Registration button is blocked
+    expected result : checkbox is available to change, registration button is available
+    steps to reproduce : open www.sitetotest.com, push Join button, fill form with correct information and change the checkbox
