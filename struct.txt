@@ -1,0 +1,8 @@
+title
+ID
+status
+priority
+severity
+actual result
+expected result
+steps to reproduce
