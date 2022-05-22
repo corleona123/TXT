@@ -1,0 +1,6 @@
+1) List of checks
+2)  Status:
+- build version
+- testing enviroment
+- QA
+3)  Checking result
